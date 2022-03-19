@@ -33,23 +33,23 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-I3\/mAjN5h3WT6J6tIkQ3alh\/r0iVOoF26i7CwanRXUA=",
+      "hash": "sha256-DEfRrr6pz7YpcmMMiSVMqdB5gH9GCVK56jxCotx\/aCc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-gctiDNwoiPHOVojO+1rMMIsc1S68Mxt76bSAxJydRJM=",
+      "hash": "sha256-PzY7IspZ2FNwYgYj3QYy6piJmm1lj8OSNnHgf6FK4cs=",
       "url": "_framework\/F0.Minesweeper.App.dll"
     },
     {
-      "hash": "sha256-\/fEQQ+6nModsp53Etj2grrBC36kfaxRjtISGuiRwVrc=",
+      "hash": "sha256-7ExB6wRbUwJGVS2k0gBpdJnC2V7KyQb0Z0T+HFM4rLE=",
       "url": "_framework\/F0.Minesweeper.Components.dll"
     },
     {
-      "hash": "sha256-e2oNjNP32h\/YugeNCXPj+SlITKd5QPyXhRncp2UnQhk=",
+      "hash": "sha256-nZKbu4pT0bAsXOzJcTEVxG2zaBkLcbt3ww4YBLBzXeU=",
       "url": "_framework\/F0.Minesweeper.Logic.Abstractions.dll"
     },
     {
-      "hash": "sha256-JgKufR\/0I4BRWbt\/WaLI+2yzIiIvXO2NuMU6tELNFLw=",
+      "hash": "sha256-THBb4CY11vRZycD8\/oNqWlNE24ZHJjJ6vbmh4VGZ6Z4=",
       "url": "_framework\/F0.Minesweeper.Logic.dll"
     },
     {
@@ -229,6 +229,10 @@
       "url": "F0.Minesweeper.App.styles.css"
     },
     {
+      "hash": "sha256-Qu6ELkh+Uo\/9VQLs5GuRv4GW2E5aIKlVklF4lMC3UoY=",
+      "url": "404.html"
+    },
+    {
       "hash": "sha256-\/LBk+vAKBzEylj1M5hE8VO3PVk439wcL7b4yaTJtqi0=",
       "url": "css\/app.css"
     },
@@ -241,7 +245,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-JOVu3jAZGLnKXhP25LrPIMieZkdZiuEQhTDxW9N3Yro=",
+      "hash": "sha256-N2LkvHMgihut\/fT8Id41PUpWc2I1IjNkeSeZOeQ6fDw=",
       "url": "index.html"
     },
     {
@@ -249,9 +253,13 @@
       "url": "manifest.json"
     },
     {
+      "hash": "sha256-jHD4poq6UceMc1qsMlTEfj24HVn+nmX\/PyWaZiTJvbY=",
+      "url": "redirect.js"
+    },
+    {
       "hash": "sha256-gH0CrZvadfJclrimR5orqvUXVhIWF8X2CE\/YMZy8Y78=",
       "url": "_content\/F0.Minesweeper.Components\/F0.Minesweeper.Components.bundle.scp.css"
     }
   ],
-  "version": "ADHoKqdn"
+  "version": "dl09lXbu"
 };
